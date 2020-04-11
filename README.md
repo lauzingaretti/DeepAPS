@@ -1,6 +1,6 @@
 # DeepAPS 
 
-### Algorithm for automatic cows segmentation and conformation phenotyping using Mask R-CNN and Kanezaki's method.
+### Estimating conformational traits in dairy cattle: a deep learning approach
 
 Code by Laura Zingaretti with contributions from Jessica Nye. 
 
